@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://www.nicolasaugereau.fr/sitemap.xml
